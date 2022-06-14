@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @WK-Shim
-- 📚 I'm Studying electrical engineering
-- 🧑‍💻 Embedded system devleoper (Student)
+WK-Shim
 
 <!---
 WK-Shim/WK-Shim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
